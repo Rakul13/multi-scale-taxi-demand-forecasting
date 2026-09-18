@@ -54,8 +54,3 @@ OD-level forecasting retains detailed movement information but is highly
 sparse, while zone-level aggregation provides a denser demand signal and
 improves forecastability.
 
-## Author
-
-Rakul Kulanthasamy Saravana Kumar  
-MSc Artificial Intelligence and Data Science  
-University of Hull
